@@ -1,0 +1,173 @@
+{
+  "data": {
+      "details": {
+          "firstName": "Biprodas",
+          "lastName": "Roy",
+          "age": 24,
+          "fullName": "Biprodas Roy",
+          "country": "Bangladesh",
+          "born": "Jessore, Bangladesh",
+          "live": "Jessore, Bangladesh",
+          "religion": "Hinduism",
+          "description": "",
+          "profile_cover": ""
+      },
+      "skills": {
+          "programmingln": [
+            {
+              "id": 1,
+              "name": "C",
+              "status": "from 2012",
+              "percentage": 70
+            }, {
+              "id": 2,
+              "name": "C++",
+              "status": "from 2013",
+              "percentage": 80
+            }, {
+              "id": 3,
+              "name": "Java",
+              "status": "from 2014",
+              "percentage": 70
+            }, {
+              "id": 4,
+              "name": "JavaScript",
+              "status": "from 2015",
+              "percentage": 90
+            }, {
+              "id": 5,
+              "name": "Python",
+              "status": "from 2014",
+              "percentage": 30
+            }, {
+              "id": 6,
+              "name": "PHP",
+              "status": "from 2015",
+              "percentage": 30
+            }
+          ],
+          "web": [
+            {
+              "id": 1,
+              "name": "ES6",
+              "status": "from 2017",
+              "percentage": 80
+            }, {
+              "id": 2,
+              "name": "Node JS",
+              "status": "from 2016",
+              "percentage": 80
+            },
+              {
+              "id": 3,
+              "name": "Express JS",
+              "status": "from 2017",
+              "percentage": 90
+            },
+              {
+              "id": 4,
+              "name": "React",
+              "status": "from 2017",
+              "percentage": 50
+            },
+              {
+              "id": 5,
+              "name": "Redux",
+              "status": "Learning",
+              "percentage": 50
+            },
+              {
+              "id": 6,
+              "name": "MongoDB",
+              "status": "Learning",
+              "percentage": 50
+            },
+            {
+              "id": 7,
+              "name": "MySQL",
+              "status": "Learning",
+              "percentage": 50
+            }
+          ],
+          "others": [
+            {
+              "id": 1,
+              "name": "Git & Github",
+              "status": "from 2014",
+              "percentage": 90
+            }
+          ]
+      },
+      "portfolio": {
+          "webapplication": [
+            {
+              "id": 1,
+              "name": "React Application",
+              "image": "",
+              "demo": "",
+              "description": "",
+              "source": "",
+              "used": ["fab fa-js", "fab fa-react"]
+            },
+            {
+              "id": 2,
+              "name": "Node Application",
+              "image": "",
+              "description": "T",
+              "demo": "",
+              "source": "",
+              "used": ["fab fa-html5", "fab fa-css3-alt", "fab fa-js"]
+            }
+            ],
+          "webdesign": [
+            {
+              "id": 1,
+              "name": "",
+              "image": "",
+              "description": "",
+              "demo": "",
+              "source": "",
+              "used": ["fab fa-html5", "fab fa-css3-alt"]
+            },
+            {
+              "id": 2,
+              "name": "Clean Template",
+              "image": "",
+              "description": "",
+              "demo": "",
+              "source": "",
+              "used": ["fab fa-html5", "fab fa-css3-alt"]
+            }
+            ],
+          "project": [
+            {
+              "id": 1,
+              "name": "fhfh gfdg ",
+              "image": "",
+              "description": "",
+              "demo": "",
+              "source": "",
+              "used": ["fas fa-space-shuttle", "fab fa-js", "fab fa-react"]
+            },
+            
+            {
+              "id": 2,
+              "name": "Express Simple Web Server - Node JS",
+              "image": "",
+              "description": "",
+              "demo": "",
+              "source": "",
+              "used": ["fas fa-server", "fab fa-node"]
+            }
+            ]
+      },
+      "social": [
+          {"name": "Facebook", "link": "https://www.facebook.com/biprodas.ry"},
+          {"name": "Github", "link": "https://www.github.com/biprodas"}
+      ],
+      "web": [
+          {"name": "Website", "link": "https://www.biprodas.me/"},
+          {"name": "Blog", "link": "https://with.biprodas.me/"}
+      ]
+  }
+}
