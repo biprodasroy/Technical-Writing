@@ -17,33 +17,39 @@
             {
               "id": 1,
               "name": "C",
-              "status": "from 2015",
-              "percentage": 70
+              "status": "from 2012",
+              "percentage": 70,
+              "color": "#555"
             }, {
               "id": 2,
               "name": "C++",
-              "status": "from 2016",
-              "percentage": 80
+              "status": "from 2013",
+              "percentage": 80,
+              "color": "#F34B7D"
             }, {
               "id": 3,
               "name": "Java",
-              "status": "from 2017",
-              "percentage": 40
+              "status": "from 2014",
+              "percentage": 70,
+              "color": "#B07219"
             }, {
               "id": 4,
               "name": "JavaScript",
-              "status": "from 2012",
-              "percentage": 90
+              "status": "from 2014",
+              "percentage": 90,
+              "color": "#F1E05A"
             }, {
               "id": 5,
               "name": "Python",
-              "status": "from 2016",
-              "percentage": 30
+              "status": "from 2015",
+              "percentage": 30,
+              "color": "#3572A5"
             }, {
               "id": 6,
               "name": "PHP",
-              "status": "Learning",
-              "percentage": 30
+              "status": "2015",
+              "percentage": 60,
+              "color": "#4F5D95"
             }
           ],
           "tools": [
@@ -51,17 +57,20 @@
               "id": 1,
               "name": "Photoshop",
               "status": "from 2011",
-              "percentage": 90
+              "percentage": 90,
+              "color": "#fff"
             }, {
               "id": 2,
               "name": "Illustrator",
               "status": "from 2013",
-              "percentage": 60
+              "percentage": 60,
+              "color": "#fff"
             }, {
               "id": 3,
               "name": "Git & GitHub",
               "status": "from 2014",
-              "percentage": 90
+              "percentage": 90,
+              "color": "#fff"
             }, {
               "id": 4,
               "name": "Web Design",
@@ -71,12 +80,14 @@
               "id": 5,
               "name": "UI & UX",
               "status": "from 2012",
-              "percentage": 70
+              "percentage": 70,
+              "color": "#fff"
             }, {
               "id": 6,
               "name": "Unity",
               "status": "Learning",
-              "percentage": 30
+              "percentage": 30,
+              "color": "#fff"
             }
           ],
           "web": [
@@ -84,36 +95,63 @@
               "id": 1,
               "name": "ES6",
               "status": "from 2017",
-              "percentage": 80
+              "percentage": 80,
+              "color": "#FFC600"
             }, {
               "id": 2,
               "name": "Node JS",
-              "status": "from 2016",
-              "percentage": 80
+              "status": "from 2017",
+              "percentage": 80,
+              "color": "#43853D"
             },
               {
               "id": 3,
               "name": "Express JS",
               "status": "from 2017",
-              "percentage": 90
+              "percentage": 90,
+              "color": "#43853D"
             },
               {
               "id": 4,
               "name": "React",
-              "status": "from 2017",
-              "percentage": 50
+              "status": "from 2018",
+              "percentage": 70,
+              "color": "#61DAFB"
             },
               {
               "id": 5,
               "name": "Redux",
-              "status": "Learning",
-              "percentage": 50
+              "status": "from 2018",
+              "percentage": 60,
+              "color": "#764ABC"
             },
               {
               "id": 6,
               "name": "MongoDB",
+              "status": "from 2017",
+              "percentage": 70,
+              "color": "#12864D"
+            },
+            {
+              "id": 7,
+              "name": "MySQL",
+              "status": "from 2014",
+              "percentage": 80,
+              "color": "#F29111"
+            },
+            {
+              "id": 8,
+              "name": "Vue",
               "status": "Learning",
-              "percentage": 50
+              "percentage": 50,
+              "color": "#41B883"
+            },
+            {
+              "id": 9,
+              "name": "Laravel",
+              "status": "Learning",
+              "percentage": 50,
+              "color": "#EF8376"
             }
           ]
       },
@@ -137,7 +175,7 @@
               "source": "",
               "used": ["fab fa-html5", "fab fa-css3-alt", "fab fa-js"]
             }
-            ],
+          ],
           "webdesign": [
             {
               "id": 2,
@@ -157,27 +195,72 @@
               "source": "",
               "used": ["fab fa-html5", "fab fa-css3-alt"]
             }
-            ],
+          ],
           "project": [
             {
-              "id": 2,
-              "name": "Next time sleep",
+              "id": 1,
+              "name": "School Management System",
               "image": "",
-              "description": "",
+              "description": "Complete school/College management software built with MERN Stack. Two reputed college in Jashore use my software :)",
               "demo": "",
               "source": "",
-              "used": ["fas fa-space-shuttle", "fab fa-js", "fab fa-react"]
+              "used": ["fab fa-node-js", "fab fa-react", "fab fa-github"]
             },
             {
-              "id": 1,
-              "name": "Express- Node JS",
+              "id": 2,
+              "name": "GRE Dictionary",
               "image": "",
-              "description": "T",
+              "description": "A dictionary web application for higher stuty aspirant built using react.js",
               "demo": "",
               "source": "",
-              "used": ["fas fa-server", "fab fa-node"]
+              "used": ["fab fa-react", "fab fa-js-square", "fab fa-github"]
+            },
+            {
+              "id": 3,
+              "name": "DevLink",
+              "image": "",
+              "description": "Social network to connect developers. I wrote this code while learning MERN technology from Brad travarsy's Udemy course.",
+              "demo": "",
+              "source": "",
+              "used": ["fab fa-node-js", "fab fa-react", "fab fa-js-square", "fab fa-github"]
+            },
+            {
+              "id": 4,
+              "name": "Doctor Stranger",
+              "image": "",
+              "description": "Clinic / patient management system for medical practitionar built with MERN stack",
+              "demo": "",
+              "source": "",
+              "used": ["fab fa-node-js", "fab fa-react", "fab fa-js-square", "fab fa-github"]
+            },
+            {
+              "id": 5,
+              "name": "Mess management",
+              "image": "",
+              "description": "Meal management system targetting both web and android (using react native).",
+              "demo": "",
+              "source": "",
+              "used": ["fab fa-node-js", "fab fa-react", "fab fa-js-square", "fab fa-android", "fab fa-github"]
+            },
+            {
+              "id": 6,
+              "name": "Agricultural News",
+              "image": "",
+              "description": "An android apps provide latest agricultural news and technologies",
+              "demo": "",
+              "source": "",
+              "used": ["fab fa-java", "fab fa-android", "fab fa-js-square", "fab fa-github"]
+            },
+            {
+              "id": 7,
+              "name": "Inventory / Stock Management",
+              "image": "",
+              "description": "This is a demo project of inventory management. I have done sevarel project using php, laravel and vue.js for my local client",
+              "demo": "",
+              "source": "",
+              "used": ["fab fa-php", "fab fa-vuejs", "fab fa-github"]
             }
-            ]
+          ]
       },
       "interest": [
         {
